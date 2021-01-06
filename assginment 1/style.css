@@ -1,0 +1,108 @@
+body{  
+       font-family: 'Bebas Neue', cursive;
+ 
+}
+#con{
+    font-size:40px ;
+}
+h1{
+    font-size: 50px;
+}
+}
+.he{
+    text-size-adjust: 20px;
+    font-size: 40px;
+}
+.orenjed-highlight{
+    color:orangered;
+}
+.murka{
+    width: 30%;
+   float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+    margin-top: 20px;
+}
+.murka img{
+    width: 100%;
+}
+section{
+    height: 500px;
+   
+}
+.link-button{
+    text-decoration: orangered;   
+       background-color:orange;
+      background-image: linear-gradient(90deg, lightSalmon,tomato);
+      padding: 15px 40px;
+      border-radius:10px;
+      color: white;
+      font-weight: 700;
+}
+
+.project-design{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 100%;
+    display: block;
+}
+.project-design h3{
+    color: black;
+    text-align: center;
+
+}
+.project-desgine p{
+    color: black;
+    text-align: center;
+}
+.project-design a{
+    text-decoration: none;
+    color: black;
+    
+}
+.project-design img{
+    width: 100%;
+}
+#project{
+    height: 500px;
+    background-color: darkred;
+}
+.heading{
+    font-size: 30px;
+}
+.main{
+    height: 200px;
+    width: 1050px;
+    margin: auto;
+    background-image: url(./images/Group_33094_1.png);
+}
+.text{
+    margin-top: 45px;
+    margin-left: 40px;
+    font-size: 30px;
+    width: 48%;
+
+    color: white;
+    float: left;
+}
+.htext a{ 
+    font-size: 30px;
+    background-color:orangered;
+    display: inline-block;
+    padding: 22px 30px;
+    color: white;
+    text-decoration: none;
+    border-radius: 12px;
+    
+}
+.htext {
+    margin-top: 40px;
+    float: right;
+    width: 18%;
+    
+}
+    
